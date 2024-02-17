@@ -1,0 +1,16 @@
+Utilize o data set do curso, para poder resolver os exercícios abaixo:
+
+# 1 - Filtre os dados vazios, e aplique um tipo de estatística, na sequencia faça o preenchimento da estatística nas colunas faltantes, salve o dataframe modificado, e mostre-o na tela.
+
+# 2 - Verifique a ocorrencia diversos valores na coluna quantidades. Valores: 5,7,9,11, salve o dataframe em outro, e o exiba na tela.
+
+# 3 - Gere um resultado apenas consultando intervalos de entras entre 300 e 1000 da coluna referente a venda. Descreva-o mostrando na tela, com base novo dataframe criado execicio 2
+
+# 4 - Faça o fatiamento do dataframe 2 mostrando apenas 10 registros.
+
+# 5 - Mostre o resultado tendo como base o no exercício 3 onde os valores da venda estão acima da média. Mostre as 5 primeiras informações.
+
+# 6 - Trabalhe a lógica com o df principal: Escolha um seguimento, e uma região, faça os filtros abaixo lembre-se de usar a notação de slicing:
+ a - Mostre os principais resultados quando os dois forem verdadeiros.
+ b - Mostre os ultimos registros quando um dos dois forem verdadeiros
+ c - Mostre 5 exemplos sortidos totalmente diferentes do seguimento e região que você escolheu.
